@@ -1,8 +1,8 @@
 # ngrams from scratch
 
 The code includes:
-  >*Creation of feature vectors using ngrams technique
-  >*Using those feature vectors to train a model (SVM) for sentimental analysis
+  *Creation of feature vectors using ngrams technique
+  *Using those feature vectors to train a model (SVM) for sentimental analysis
  
 3 Datasets are provided that cal be used as training and testing sets. 
 
